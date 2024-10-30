@@ -1,31 +1,32 @@
-🌐 About Me:
-I'm a versatile professional, proficient in web development, software engineering, and cyber security analysis. With a keen eye for detail and a passion for innovation, I excel in crafting dynamic web solutions, architecting robust software systems, and fortifying digital infrastructures against threats. My expertise spans from front-end design to back-end development, coupled with a deep understanding of security principles. Continuously learning and adapting to emerging technologies, I thrive in collaborative environments where I can leverage my skills to drive impactful results. Let's connect and explore
-how we can elevate your projects to new heights, securely and efficiently.
+# Hi there, 👋
 
-🚀 Skills:
-Programming Languages: Javascript, C, Typescript, Python, etc...
-Database Management: SQL, MongoDB
-Frameworks: Jquery, React, bootstrap, etc...
-RESTful API Design
-Software Testing and Debugging
-Agile Development
+My name is , Prince Emeka Joel.
 
-Front-end: HTML5, CSS3, JavaScript
-Frameworks: React.js
-Responsive Design
-Version Control: Git
-Web Performance Optimization
-Cross-Browser Compatibility
+I'm a dedicated Full-Stack Web Developer with a deep passion for building intuitive and efficient applications. I love tackling challenges across the entire stack, from crafting smooth, responsive front-end interfaces to building scalable, robust back-end solutions. My mission is to create digital experiences that users love and that grow with emerging tech.
 
-📚 Education:
-Bachelor's Degree in Computer Science, Holberton University.
+## 📫 How to reach me:
+You can send me an email at: favdev10@gmail.com
 
-💼 Looking For:
-Excited to bring my skills and enthusiasm to a dynamic team that values innovation and creativity. 
-Currently seeking opportunities to contribute to exciting web development projects.
+### Roles
+- **Front-End Developer**: Creating engaging, accessible, and user-centered designs.
+- **Back-End Developer**: Ensuring reliability, security, and seamless data management.
+- **DevOps Advocate**: Integrating CI/CD practices for efficient deployments.
+I'm a Full-Stack Web Developer passionate about building and optimizing user-friendly web applications.
 
-🔧 Projects:
-*No available or open projects for now, but I will update this status if needed*
+## 🔧 Technologies & Tools
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-💼 Looking For:
-Eager to contribute my technical expertise to a forward-thinking company where I can collaborate on challenging projects and continue to learn and grow as a software engineer. Currently open to new opportunities in software development.
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🏆 Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
