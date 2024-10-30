@@ -1,9 +1,9 @@
 # Hi there, I'm Prince Emeka Joel 👋
 
-I'm a dedicated Full-Stack Web Developer with a deep passion for building intuitive and efficient applications. I love tackling challenges across the entire stack, from crafting smooth, responsive front-end interfaces to building scalable, robust back-end solutions. My mission is to create digital experiences that users love and that grow with emerging tech.
+I'm a dedicated Full-Stack Web Developer passionate about building intuitive and efficient applications. I love tackling challenges across the entire stack, from crafting smooth, responsive front-end interfaces to building scalable, robust back-end solutions. My mission is to create digital experiences that users love and that grow with emerging tech.
 
 ## 📫 How to reach me:
-* ✉️ You can send me a mail at: favdev10@gmail.com
+* ✉️ You can send me an email at: favdev10@gmail.com
 
 ## 💼 Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
